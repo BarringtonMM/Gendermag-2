@@ -119,7 +119,7 @@ public class Movie {
 	       
 
 	        BufferedReader bf = new BufferedReader(
-	            new FileReader("C:\\Users\\Home\\eclipse-workspace\\Movie2\\Movies"));
+	            new FileReader("C:\\Users\\Home\\eclipse-workspace\\Gendermag 2\\src\\Movies"));
 	       
 
 	        String line = bf.readLine();
